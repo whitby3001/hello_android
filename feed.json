@@ -3,22 +3,22 @@
     {
       "title":"Cat",
       "description": "This is a cat",
-      "image": "https://picsum.photos/id/1074/200"
+      "image": "https://picsum.photos/200"
     },
     {
       "title":"Dog",
       "description": "This is a dog",
-      "image": "https://picsum.photos/id/237/200"
+      "image": "https://picsum.photos/200"
     },
     {
       "title":"Car",
       "description": "This is a car",
-      "image": "https://picsum.photos/id/1071/200"
+      "image": "https://picsum.photos/200"
     },
     {
       "title":"House",
       "description": "This is a house",
-      "image": "https://picsum.photos/id/164/200"
+      "image": "https://picsum.photos/200"
     }
   ]
 }
