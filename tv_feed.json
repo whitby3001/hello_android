@@ -1,0 +1,20 @@
+{
+  "shows":[
+    {
+      "title":"Stranger Things",
+      "description": "A show about strange things",
+      "poster": "https://www.themoviedb.org/t/p/original/g3nzhHBDTrJ7RWhzozFTYFjvRbd.jpg",
+      "seasons":[
+        {
+          "number": "1"
+          "episodes":[
+            {
+              "number": "1",
+              "title": "Chapter One: The Vanishing of Will Byers"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
