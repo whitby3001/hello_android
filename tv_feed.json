@@ -3,7 +3,7 @@
     {
       "title":"Stranger Things",
       "description": "A show about strange things",
-      "poster": "https://www.themoviedb.org/t/p/original/g3nzhHBDTrJ7RWhzozFTYFjvRbd.jpg",
+      "image": "https://www.themoviedb.org/t/p/original/g3nzhHBDTrJ7RWhzozFTYFjvRbd.jpg",
       "seasons":[
         {
           "number": "1"
